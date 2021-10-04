@@ -5,4 +5,4 @@ The task was task was the to find the global minimum of a function via [simulate
 
 The simulation starts with N =1000 particles in a 2 dimensional box, uniformly distributed in space and normally distributed in momentum. Also there was a "temperature" of 100.   Equilibrium is then achieved via Markov chain Monte Carlo (specifcally, the [Metropolis-Hastings algorithm](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm)). The temeperature is subsequently lowered and the process repeated. If done correctly the particles should inhabit the global minimum at sufficiently low temperatures. The rate of cooling had to be found by running the code over and over. The issue: too quick and the particles don't all settle in the global minimum, too slow and the code takes way too long to run. 
 
-Playing around, the correct rate of cooling was found. The global minima is known and the algorithm did indeed identified it.
+Playing around, the correct rate of cooling was found. The global minima is known and the algorithm did indeed correctly identify it.

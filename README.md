@@ -1,5 +1,5 @@
 # Simulated-annealing
-The following was the final assignment for a course in computational physics.  
+The following was the final assignment for a graduate course in computational physics.  
 
 The task was task was the to find the global minimum of a function via [simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing). The difficulty was that the function had many local minina The entire code was written from scratch. 
 

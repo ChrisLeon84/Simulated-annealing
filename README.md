@@ -12,4 +12,4 @@ TL;DR:
 4. Go to 2. while lowered T >0 .
 5. Particles should inhabit the global minimum when done. 
 
-Playing around, the correct rate of cooling was found. The global minima is known and the algorithm did indeed correctly identify it (eventually).
+Playing around, the correct rate of cooling was found. The global minima is known and the algorithm did indeed correctly identify it.
